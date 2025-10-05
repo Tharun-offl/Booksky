@@ -2,6 +2,13 @@
     padding:0px;
     margin: 0px;
 }
+body{
+  background-image: url("booksky image.jpg");
+  background-size: cover;       /* makes it cover the full screen */
+  background-position: center;  /* keeps it centered */
+  background-repeat: no-repeat; /* prevents tiling */
+}
+
 .navbar{
     background-color: #FD6569;
     padding:10px;
